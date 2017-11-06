@@ -2,7 +2,7 @@
 
 platform :ios, '7.0'
 
-source 'https://github.com/Blavtes/RepoRepository.git'
+source 'https://github.com/Blavtes/PrivateRepo.git'
 source 'https://github.com/CocoaPods/Specs.git'
 
 target 'A_Category' do
