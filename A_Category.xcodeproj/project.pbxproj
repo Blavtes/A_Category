@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		1A64131F3B52B8C9BAE16E4A /* libPods-A_Category.a in Frameworks */ = {isa = PBXBuildFile; fileRef = D77848367DFED47CDE175DB1 /* libPods-A_Category.a */; };
-		57A9FEB51FAC16CD003DE858 /* CTMediator+A.m in Sources */ = {isa = PBXBuildFile; fileRef = 57A9FEB41FAC16CD003DE858 /* CTMediator+A.m */; };
+		57A9FEB51FAC16CD003DE858 /* YYMediator+A.m in Sources */ = {isa = PBXBuildFile; fileRef = 57A9FEB41FAC16CD003DE858 /* YYMediator+A.m */; };
 		57CA0F5C1FAC13C9005C3167 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 57CA0F5B1FAC13C9005C3167 /* AppDelegate.m */; };
 		57CA0F5F1FAC13C9005C3167 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 57CA0F5E1FAC13C9005C3167 /* ViewController.m */; };
 		57CA0F621FAC13C9005C3167 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 57CA0F601FAC13C9005C3167 /* Main.storyboard */; };
@@ -18,8 +18,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		57A9FEB31FAC16CD003DE858 /* CTMediator+A.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "CTMediator+A.h"; sourceTree = "<group>"; };
-		57A9FEB41FAC16CD003DE858 /* CTMediator+A.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "CTMediator+A.m"; sourceTree = "<group>"; };
+		57A9FEB31FAC16CD003DE858 /* YYMediator+A.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "YYMediator+A.h"; sourceTree = "<group>"; };
+		57A9FEB41FAC16CD003DE858 /* YYMediator+A.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "YYMediator+A.m"; sourceTree = "<group>"; };
 		57CA0F571FAC13C9005C3167 /* A_Category.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = A_Category.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		57CA0F5A1FAC13C9005C3167 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		57CA0F5B1FAC13C9005C3167 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -85,8 +85,8 @@
 		57CA0F701FAC155A005C3167 /* A_Category */ = {
 			isa = PBXGroup;
 			children = (
-				57A9FEB31FAC16CD003DE858 /* CTMediator+A.h */,
-				57A9FEB41FAC16CD003DE858 /* CTMediator+A.m */,
+				57A9FEB31FAC16CD003DE858 /* YYMediator+A.h */,
+				57A9FEB41FAC16CD003DE858 /* YYMediator+A.m */,
 			);
 			path = A_Category;
 			sourceTree = "<group>";
@@ -231,7 +231,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				57CA0F5F1FAC13C9005C3167 /* ViewController.m in Sources */,
-				57A9FEB51FAC16CD003DE858 /* CTMediator+A.m in Sources */,
+				57A9FEB51FAC16CD003DE858 /* YYMediator+A.m in Sources */,
 				57CA0F6A1FAC13C9005C3167 /* main.m in Sources */,
 				57CA0F5C1FAC13C9005C3167 /* AppDelegate.m in Sources */,
 			);
