@@ -9,5 +9,5 @@ target 'A_Category' do
   # Uncomment this line if you're using Swift or would like to use dynamic frameworks
   # use_frameworks!
  	
- 	pod "CTMediator"
+ 	pod "YYMediator"
 end
